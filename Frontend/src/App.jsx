@@ -1,5 +1,5 @@
-import './App.css';
-import './index.css';
+import './Styles/App.css';
+import './Styles/index.css';
 
 import { Link } from 'react-router-dom';
 
